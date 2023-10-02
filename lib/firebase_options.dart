@@ -50,20 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBrLmEMmUDDVvsmApBlEVKlrdX-HZ5w5QA',
-    appId: '1:1072831498211:web:7e41174f375a266859c2d6',
-    messagingSenderId: '1072831498211',
-    projectId: 'nonstopio-assignment',
-    authDomain: 'nonstopio-assignment.firebaseapp.com',
-    storageBucket: 'nonstopio-assignment.appspot.com',
-    measurementId: 'G-0XNQET6SHT',
+    apiKey: 'AIzaSyCP69EOeTGmgIoPI8cq1ckfPYG2__qfq1k',
+    appId: '1:116902153113:web:072a0b74b42f7c8f0b2108',
+    messagingSenderId: '116902153113',
+    projectId: 'shop-sip',
+    authDomain: 'shop-sip.firebaseapp.com',
+    storageBucket: 'shop-sip.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAeAEjJx9tmtMf3SZziHuAbkr88psjIALE',
-    appId: '1:1072831498211:android:82685c1ed06f6bc559c2d6',
-    messagingSenderId: '1072831498211',
-    projectId: 'nonstopio-assignment',
-    storageBucket: 'nonstopio-assignment.appspot.com',
+    apiKey: 'AIzaSyCRUHmZmyZhHHpk3c0TQoTnQTOZZgSCi1Y',
+    appId: '1:116902153113:android:95c1001a000debec0b2108',
+    messagingSenderId: '116902153113',
+    projectId: 'shop-sip',
+    storageBucket: 'shop-sip.appspot.com',
   );
 }

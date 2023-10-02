@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116902153113",
+    "project_id": "shop-sip",
+    "storage_bucket": "shop-sip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116902153113:android:95c1001a000debec0b2108",
+        "android_client_info": {
+          "package_name": "com.example.shop_sip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116902153113-5stc0qgma70buprvooet86jb29l3hhdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRUHmZmyZhHHpk3c0TQoTnQTOZZgSCi1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116902153113-5stc0qgma70buprvooet86jb29l3hhdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
